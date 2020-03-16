@@ -56,7 +56,9 @@ export const Card = () => {
 							12
 						</div>
 					</div>
-					<div className='Amount5'/>
+					<div className='Amount5'>
+						123456789123456789
+					</div>
 				</div>
 			</div>
 		</>
