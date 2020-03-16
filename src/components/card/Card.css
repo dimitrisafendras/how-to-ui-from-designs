@@ -9,6 +9,8 @@
     --h4Height: 16px;
     --h5Size: 12px;
     --h5Height: 14px;
+    --shadow: 0px 0px 9px 4px rgba(0,0,0,0.75);
+    --roundCorners: 4px;
 }
 
 .Card1 {
@@ -29,7 +31,7 @@
     display: flex;
 }
 
-.Icon {
+.Icon2 {
     min-height: 24px;
     max-height: 24px;
     min-width: 24px;
@@ -37,7 +39,7 @@
     background-color: green;
 }
 
-.TextContainer {
+.TextContainer2 {
     background-color: #61dafb;
     height: 100%;
     min-height: 36px;
@@ -48,44 +50,6 @@
     height: 100%;
     min-height: 52px;
     width: 100%;
-    margin-bottom: 20px;
-    background-color: red;
-
-    display: flex;
-}
-
-.Icon2 {
-    min-height: 24px;
-    max-height: 24px;
-    min-width: 24px;
-    max-width: 24px;
-    background-color: green;
-}
-
-.TextContainer2 {
-    height: 100%;
-    width: 100%;
-}
-
-.Text {
-    background-color: yellow;
-    height: 100%;
-    min-height: 16px;
-    width: 100%;
-}
-
-.Amount {
-    background-color: purple;
-    height: 100%;
-    min-height: 20px;
-    width: 100%;
-}
-/*///////////////////////////////////////////////*/
-.Card4 {
-    height: 100%;
-    min-height: 36px;
-    width: 100%;
-    padding: 8px;
     margin-bottom: 20px;
     background-color: red;
 
@@ -105,14 +69,52 @@
     width: 100%;
 }
 
-.Text2 {
+.Text3 {
     background-color: yellow;
     height: 100%;
     min-height: 16px;
     width: 100%;
 }
 
-.Amount2 {
+.Amount3 {
+    background-color: purple;
+    height: 100%;
+    min-height: 20px;
+    width: 100%;
+}
+/*///////////////////////////////////////////////*/
+.Card4 {
+    height: 100%;
+    min-height: 36px;
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 20px;
+    background-color: red;
+
+    display: flex;
+}
+
+.Icon4 {
+    min-height: 24px;
+    max-height: 24px;
+    min-width: 24px;
+    max-width: 24px;
+    background-color: green;
+}
+
+.TextContainer4 {
+    height: 100%;
+    width: 100%;
+}
+
+.Text4 {
+    background-color: yellow;
+    height: 100%;
+    min-height: 16px;
+    width: 100%;
+}
+
+.Amount4 {
     background-color: purple;
     height: 100%;
     min-height: 20px;
@@ -130,7 +132,7 @@
     display: flex;
 }
 
-.Icon4 {
+.Icon5 {
     min-height: 24px;
     max-height: 24px;
     min-width: 24px;
@@ -140,19 +142,19 @@
     background-color: green;
 }
 
-.TextContainer4 {
+.TextContainer5 {
     height: 100%;
     width: 100%;
 }
 
-.InnerTextContainer {
+.InnerTextContainer5 {
     background-color: yellow;
     width: 100%;
 
     display: flex;
 }
 
-.InnerText {
+.InnerText5 {
     width: 100%;
     min-height: 16px;
     margin-right: 4px;
@@ -160,7 +162,7 @@
     background-color: green;
 }
 
-.InnerNumber {
+.InnerNumber5 {
     width: 100%;
     height: 100%;
     min-height: 16px;
@@ -168,7 +170,7 @@
     background-color: #0000bb;
 }
 
-.Amount3 {
+.Amount5 {
     background-color: purple;
     height: 100%;
     min-height: 20px;
@@ -188,80 +190,7 @@
     display: flex;
 }
 
-.Indicator {
-    min-width: 8px;
-    max-width: 8px;
-    min-height: 8px;
-    max-height: 8px;
-
-    position: absolute;
-    top:4px;
-    left: -4px;
-
-    border-radius: 50%;
-
-    background-color: #0000bb;
-}
-
-.Icon5 {
-    min-height: 24px;
-    max-height: 24px;
-    min-width: 24px;
-    max-width: 24px;
-    margin-right: 8px;
-
-    background-color: green;
-}
-
-.TextContainer5 {
-    height: 100%;
-    width: 100%;
-}
-
-.InnerTextContainer2 {
-    background-color: yellow;
-    width: 100%;
-
-    display: flex;
-}
-
-.InnerText2 {
-    width: 100%;
-    min-height: 16px;
-    margin-right: 4px;
-
-    background-color: green;
-}
-
-.InnerNumber2 {
-    width: 100%;
-    height: 100%;
-    min-height: 16px;
-
-    background-color: #0000bb;
-}
-
-.Amount4 {
-    background-color: purple;
-    height: 100%;
-    min-height: 20px;
-    width: 100%;
-}
-/*///////////////////////////////////////////////*/
-.Card7 {
-    height: 100%;
-    min-height: 36px;
-    width: 100%;
-    padding: 8px;
-    margin-bottom: 20px;
-    background-color: red;
-
-    position: relative;
-
-    display: flex;
-}
-
-.Indicator2 {
+.Indicator6 {
     min-width: 8px;
     max-width: 8px;
     min-height: 8px;
@@ -287,13 +216,86 @@
 }
 
 .TextContainer6 {
+    height: 100%;
+    width: 100%;
 }
 
 .InnerTextContainer6 {
+    background-color: yellow;
+    width: 100%;
+
     display: flex;
 }
 
-.InnerText3 {
+.InnerText6 {
+    width: 100%;
+    min-height: 16px;
+    margin-right: 4px;
+
+    background-color: green;
+}
+
+.InnerNumber6 {
+    width: 100%;
+    height: 100%;
+    min-height: 16px;
+
+    background-color: #0000bb;
+}
+
+.Amount6 {
+    background-color: purple;
+    height: 100%;
+    min-height: 20px;
+    width: 100%;
+}
+/*///////////////////////////////////////////////*/
+.Card7 {
+    height: 100%;
+    min-height: 36px;
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 20px;
+    background-color: red;
+
+    position: relative;
+
+    display: flex;
+}
+
+.Indicator7 {
+    min-width: 8px;
+    max-width: 8px;
+    min-height: 8px;
+    max-height: 8px;
+
+    position: absolute;
+    top:4px;
+    left: -4px;
+
+    border-radius: 50%;
+
+    background-color: #0000bb;
+}
+
+.Icon7 {
+    min-height: 24px;
+    max-height: 24px;
+    min-width: 24px;
+    max-width: 24px;
+    margin-right: 8px;
+
+    background-color: green;
+}
+
+.TextContainer7 {
+}
+
+.InnerTextContainer7 {
+    display: flex;
+}
+
+.InnerText7 {
     min-height: 16px;
     margin-right: 4px;
     font-size: var(--h5Size);
@@ -301,14 +303,142 @@
     font-weight: bold;
 }
 
-.InnerNumber3 {
+.InnerNumber7 {
     min-height: 16px;
     font-size: var(--h5Size);
     color: var(--lessLightBlue);
     font-weight: bold;
 }
 
-.Amount5 {
+.Amount7 {
+    min-height: 20px;
+    font-size: var(--h4Size);
+    color: var(--black);
+}
+/*///////////////////////////////////////////////*/
+.Card8 {
+    height: 100%;
+    min-height: 36px;
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 20px;
+    background-color: red;
+
+    position: relative;
+
+    display: flex;
+}
+
+.Indicator8 {
+    min-width: 8px;
+    max-width: 8px;
+    min-height: 8px;
+    max-height: 8px;
+
+    position: absolute;
+    top:4px;
+    left: -4px;
+
+    border-radius: 50%;
+
+    background-color: #0000bb;
+}
+
+.Icon8 {
+    min-height: 24px;
+    max-height: 24px;
+    min-width: 24px;
+    max-width: 24px;
+    margin-right: 8px;
+}
+
+.TextContainer8 {
+}
+
+.InnerTextContainer8 {
+    display: flex;
+}
+
+.InnerText8 {
+    min-height: 16px;
+    margin-right: 4px;
+    font-size: var(--h5Size);
+    color: var(--black);
+    font-weight: bold;
+}
+
+.InnerNumber8 {
+    min-height: 16px;
+    font-size: var(--h5Size);
+    color: var(--lessLightBlue);
+    font-weight: bold;
+}
+
+.Amount8 {
+    min-height: 20px;
+    font-size: var(--h4Size);
+    color: var(--black);
+}
+/*///////////////////////////////////////////////*/
+.Card9 {
+    height: 100%;
+    min-height: 36px;
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 20px;
+    background-color: var(--white);
+    box-shadow: var(--shadow);
+    border-radius: var(--roundCorners);
+    position: relative;
+    text-align: start;
+    word-break: break-all;
+    display: flex;
+}
+
+.Indicator9 {
+    min-width: 8px;
+    max-width: 8px;
+    min-height: 8px;
+    max-height: 8px;
+    position: absolute;
+    top:4px;
+    left: -4px;
+    border-radius: 50%;
+    background-color: var(--teal);
+}
+
+.Icon9 {
+    min-height: 24px;
+    max-height: 24px;
+    min-width: 24px;
+    max-width: 24px;
+    margin-right: 8px;
+}
+
+.TextContainer9 {
+}
+
+.InnerTextContainer9 {
+    display: flex;
+}
+
+.InnerText9 {
+    min-height: 16px;
+    margin-right: 4px;
+    font-size: var(--h5Size);
+    color: var(--black);
+    font-weight: bold;
+}
+
+.InnerNumber9 {
+    min-height: 16px;
+    font-size: var(--h5Size);
+    color: var(--lessLightBlue);
+    font-weight: bold;
+    word-break: keep-all;
+}
+
+.Amount9 {
     min-height: 20px;
     font-size: var(--h4Size);
     color: var(--black);
