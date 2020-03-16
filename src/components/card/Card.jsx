@@ -24,7 +24,6 @@ export const Card = () => {
 				</div>
 			</div>
 			<div className='Card5'>
-
 				<div className='Icon4'/>
 				<div className='TextContainer4'>
 					<div className='InnerTextContainer'>
@@ -43,6 +42,21 @@ export const Card = () => {
 						<div className='InnerNumber2'/>
 					</div>
 					<div className='Amount4'/>
+				</div>
+			</div>
+			<div className='Card7'>
+				<div className='Indicator2'/>
+				<div className='Icon6'/>
+				<div className='TextContainer6'>
+					<div className='InnerTextContainer6'>
+						<div className='InnerText3'>
+							123456789123456
+						</div>
+						<div className='InnerNumber3'>
+							12
+						</div>
+					</div>
+					<div className='Amount5'/>
 				</div>
 			</div>
 		</>

@@ -1,7 +1,14 @@
 :root {
-    --red: #b00;
-    --blue: #00b;
+    --white: #ffffff;
+    --black: #000000;
+    --lightBlue: #B3E5FC;
+    --lessLightBlue: #4FC3F7;
+    --teal: #26A69A;
     --fullwidth: 100%;
+    --h4Size: 14px;
+    --h4Height: 16px;
+    --h5Size: 12px;
+    --h5Height: 14px;
 }
 
 .Card1 {
@@ -11,7 +18,7 @@
     margin-bottom: 20px;
     background-color: red;
 }
-
+/*///////////////////////////////////////////////*/
 .Card2 {
     height: 100%;
     min-height: 52px;
@@ -36,7 +43,7 @@
     min-height: 36px;
     width: 100%;
 }
-
+/*///////////////////////////////////////////////*/
 .Card3 {
     height: 100%;
     min-height: 52px;
@@ -73,7 +80,7 @@
     min-height: 20px;
     width: 100%;
 }
-
+/*///////////////////////////////////////////////*/
 .Card4 {
     height: 100%;
     min-height: 36px;
@@ -111,7 +118,7 @@
     min-height: 20px;
     width: 100%;
 }
-
+/*///////////////////////////////////////////////*/
 .Card5 {
     height: 100%;
     min-height: 36px;
@@ -167,7 +174,7 @@
     min-height: 20px;
     width: 100%;
 }
-
+/*///////////////////////////////////////////////*/
 .Card6 {
     height: 100%;
     min-height: 36px;
@@ -240,3 +247,77 @@
     min-height: 20px;
     width: 100%;
 }
+/*///////////////////////////////////////////////*/
+.Card7 {
+    height: 100%;
+    min-height: 36px;
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 20px;
+    background-color: red;
+
+    position: relative;
+
+    display: flex;
+}
+
+.Indicator2 {
+    min-width: 8px;
+    max-width: 8px;
+    min-height: 8px;
+    max-height: 8px;
+
+    position: absolute;
+    top:4px;
+    left: -4px;
+
+    border-radius: 50%;
+
+    background-color: #0000bb;
+}
+
+.Icon6 {
+    min-height: 24px;
+    max-height: 24px;
+    min-width: 24px;
+    max-width: 24px;
+    margin-right: 8px;
+
+    background-color: green;
+}
+
+.TextContainer6 {
+    height: 100%;
+    width: 100%;
+}
+
+.InnerTextContainer6 {
+    width: 100%;
+
+    display: flex;
+}
+
+.InnerText3 {
+    min-height: 16px;
+    margin-right: 4px;
+    font-size: var(--h5Size);
+    color: var(--black);
+    font-weight: bold;
+}
+
+.InnerNumber3 {
+    height: 100%;
+    min-height: 16px;
+
+    font-size: var(--h5Size);
+    color: var(--lessLightBlue);
+    font-weight: bold;
+}
+
+.Amount5 {
+    background-color: purple;
+    height: 100%;
+    min-height: 20px;
+    width: 100%;
+}
+/*///////////////////////////////////////////////*/
