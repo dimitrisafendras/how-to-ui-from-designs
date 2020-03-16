@@ -1,0 +1,242 @@
+:root {
+    --red: #b00;
+    --blue: #00b;
+    --fullwidth: 100%;
+}
+
+.Card1 {
+    height: 100%;
+    min-height: 52px;
+    width: 100%;
+    margin-bottom: 20px;
+    background-color: red;
+}
+
+.Card2 {
+    height: 100%;
+    min-height: 52px;
+    width: 100%;
+    margin-bottom: 20px;
+    background-color: red;
+
+    display: flex;
+}
+
+.Icon {
+    min-height: 24px;
+    max-height: 24px;
+    min-width: 24px;
+    max-width: 24px;
+    background-color: green;
+}
+
+.TextContainer {
+    background-color: #61dafb;
+    height: 100%;
+    min-height: 36px;
+    width: 100%;
+}
+
+.Card3 {
+    height: 100%;
+    min-height: 52px;
+    width: 100%;
+    margin-bottom: 20px;
+    background-color: red;
+
+    display: flex;
+}
+
+.Icon2 {
+    min-height: 24px;
+    max-height: 24px;
+    min-width: 24px;
+    max-width: 24px;
+    background-color: green;
+}
+
+.TextContainer2 {
+    height: 100%;
+    width: 100%;
+}
+
+.Text {
+    background-color: yellow;
+    height: 100%;
+    min-height: 16px;
+    width: 100%;
+}
+
+.Amount {
+    background-color: purple;
+    height: 100%;
+    min-height: 20px;
+    width: 100%;
+}
+
+.Card4 {
+    height: 100%;
+    min-height: 36px;
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 20px;
+    background-color: red;
+
+    display: flex;
+}
+
+.Icon3 {
+    min-height: 24px;
+    max-height: 24px;
+    min-width: 24px;
+    max-width: 24px;
+    background-color: green;
+}
+
+.TextContainer3 {
+    height: 100%;
+    width: 100%;
+}
+
+.Text2 {
+    background-color: yellow;
+    height: 100%;
+    min-height: 16px;
+    width: 100%;
+}
+
+.Amount2 {
+    background-color: purple;
+    height: 100%;
+    min-height: 20px;
+    width: 100%;
+}
+
+.Card5 {
+    height: 100%;
+    min-height: 36px;
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 20px;
+    background-color: red;
+
+    display: flex;
+}
+
+.Icon4 {
+    min-height: 24px;
+    max-height: 24px;
+    min-width: 24px;
+    max-width: 24px;
+    margin-right: 8px;
+
+    background-color: green;
+}
+
+.TextContainer4 {
+    height: 100%;
+    width: 100%;
+}
+
+.InnerTextContainer {
+    background-color: yellow;
+    width: 100%;
+
+    display: flex;
+}
+
+.InnerText {
+    width: 100%;
+    min-height: 16px;
+    margin-right: 4px;
+
+    background-color: green;
+}
+
+.InnerNumber {
+    width: 100%;
+    height: 100%;
+    min-height: 16px;
+
+    background-color: #0000bb;
+}
+
+.Amount3 {
+    background-color: purple;
+    height: 100%;
+    min-height: 20px;
+    width: 100%;
+}
+
+.Card6 {
+    height: 100%;
+    min-height: 36px;
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 20px;
+    background-color: red;
+
+    position: relative;
+
+    display: flex;
+}
+
+.Indicator {
+    min-width: 8px;
+    max-width: 8px;
+    min-height: 8px;
+    max-height: 8px;
+
+    position: absolute;
+    top:4px;
+    left: -4px;
+
+    border-radius: 50%;
+
+    background-color: #0000bb;
+}
+
+.Icon5 {
+    min-height: 24px;
+    max-height: 24px;
+    min-width: 24px;
+    max-width: 24px;
+    margin-right: 8px;
+
+    background-color: green;
+}
+
+.TextContainer5 {
+    height: 100%;
+    width: 100%;
+}
+
+.InnerTextContainer2 {
+    background-color: yellow;
+    width: 100%;
+
+    display: flex;
+}
+
+.InnerText2 {
+    width: 100%;
+    min-height: 16px;
+    margin-right: 4px;
+
+    background-color: green;
+}
+
+.InnerNumber2 {
+    width: 100%;
+    height: 100%;
+    min-height: 16px;
+
+    background-color: #0000bb;
+}
+
+.Amount4 {
+    background-color: purple;
+    height: 100%;
+    min-height: 20px;
+    width: 100%;
+}
