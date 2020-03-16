@@ -84,10 +84,10 @@ export const Card = () => {
 				<img src={Gold} className='Icon9'/>
 				<div className='TextContainer9'>
 					<div className='InnerTextContainer9'>
-						<div className='InnerText9'>
+						<div className='InnerTextCommon InnerText9'>
 							123456789123456
 						</div>
-						<div className='InnerNumber9'>
+						<div className='InnerTextCommon InnerNumber9'>
 							12
 						</div>
 					</div>

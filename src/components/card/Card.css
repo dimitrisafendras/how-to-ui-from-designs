@@ -381,7 +381,6 @@
 }
 /*///////////////////////////////////////////////*/
 .Card9 {
-    height: 100%;
     min-height: 36px;
     width: 100%;
     padding: 8px;
@@ -422,19 +421,19 @@
     display: flex;
 }
 
-.InnerText9 {
+.InnerTextCommon {
     min-height: 16px;
     margin-right: 4px;
     font-size: var(--h5Size);
-    color: var(--black);
     font-weight: bold;
 }
 
+.InnerText9 {
+    color: var(--black);
+}
+
 .InnerNumber9 {
-    min-height: 16px;
-    font-size: var(--h5Size);
     color: var(--lessLightBlue);
-    font-weight: bold;
     word-break: keep-all;
 }
 
