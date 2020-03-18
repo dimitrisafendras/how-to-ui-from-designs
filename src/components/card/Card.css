@@ -394,6 +394,10 @@
     display: flex;
 }
 
+.Card9:hover {
+    background-color: var(--lightBlue);
+}
+
 .Indicator9 {
     min-width: 8px;
     max-width: 8px;
