@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27bdda93-947d-41dc-b153-b117850184fb" name="Default Changelist" comment="">
+    <list default="true" id="27bdda93-947d-41dc-b153-b117850184fb" name="Default Changelist" comment="refactor">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/card/Card.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/card/Card.css" afterDir="false" />
     </list>
@@ -14,9 +15,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="React File" />
         <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="React File" />
       </list>
     </option>
   </component>
@@ -86,6 +87,7 @@
       <workItem from="1584363655733" duration="2072000" />
       <workItem from="1584371876894" duration="13890000" />
       <workItem from="1584542746912" duration="671000" />
+      <workItem from="1585318902815" duration="248000" />
     </task>
     <task id="LOCAL-00001" summary="progress on card added indicator">
       <created>1584379736755</created>
@@ -136,10 +138,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="refactor" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="218" y="0" key="CommitChangelistDialog2" timestamp="1584394928007">
+    <state x="218" y="0" key="CommitChangelistDialog2" timestamp="1585315323767">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="218" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1584394928007" />
+    <state x="218" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1585315323767" />
     <state x="119" y="54" key="DiffContextDialog" timestamp="1584380917313">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
@@ -168,10 +170,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="1237" height="38" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1584373104108" />
-    <state x="356" y="71" key="RollbackChangesDialog" timestamp="1584395125494">
+    <state x="356" y="71" key="RollbackChangesDialog" timestamp="1585313938984">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="356" y="71" key="RollbackChangesDialog/0.0.1280.720@0.0.1280.720" timestamp="1584395125494" />
+    <state x="356" y="71" key="RollbackChangesDialog/0.0.1280.720@0.0.1280.720" timestamp="1585313938984" />
     <state x="448" y="230" key="VCS.EditChangelistDialog" timestamp="1584394405798">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
