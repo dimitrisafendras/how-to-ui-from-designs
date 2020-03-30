@@ -3,9 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="27bdda93-947d-41dc-b153-b117850184fb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/layouts/AppLayout.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layouts/AppLayout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/Header.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/layouts/AppLayout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layouts/AppLayout.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/main/Main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/Main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sidebar/Sidebar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sidebar/Sidebar.css" afterDir="false" />
     </list>
     <list id="608be2c1-95b1-4be6-b59a-22aa989a31ca" name="New changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +96,7 @@
       <workItem from="1584371876894" duration="13890000" />
       <workItem from="1584542746912" duration="671000" />
       <workItem from="1585318902815" duration="326000" />
-      <workItem from="1585580232083" duration="3566000" />
+      <workItem from="1585580232083" duration="4102000" />
     </task>
     <task id="LOCAL-00001" summary="progress on card added indicator">
       <created>1584379736755</created>
@@ -159,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585583104856</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="refactor">
+      <created>1585584002019</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1585584002019</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,10 +184,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="refactor" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="218" y="0" key="CommitChangelistDialog2" timestamp="1585583104472">
+    <state x="218" y="0" key="CommitChangelistDialog2" timestamp="1585584001644">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="218" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1585583104472" />
+    <state x="218" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1585584001644" />
     <state x="119" y="54" key="DiffContextDialog" timestamp="1584380917313">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
@@ -219,10 +228,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="448" y="230" key="VCS.EditChangelistDialog/0.0.1280.720@0.0.1280.720" timestamp="1584394405798" />
-    <state x="234" y="82" key="Vcs.Push.Dialog.v2" timestamp="1585583109764">
+    <state x="234" y="82" key="Vcs.Push.Dialog.v2" timestamp="1585584003816">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="234" y="82" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1585583109764" />
+    <state x="234" y="82" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1585584003816" />
     <state x="577" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584373974821">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
