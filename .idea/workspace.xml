@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="27bdda93-947d-41dc-b153-b117850184fb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/header/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/Header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layouts/AppLayout.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layouts/AppLayout.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/layouts/AppLayout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layouts/AppLayout.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/main/Main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/Main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/sidebar/Sidebar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sidebar/Sidebar.css" afterDir="false" />

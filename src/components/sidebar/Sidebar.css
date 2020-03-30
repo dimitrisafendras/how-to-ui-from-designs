@@ -2,4 +2,6 @@
     min-height: 10px;
     min-width: 10px;
     background-color: orange;
+
+    grid-area: sidebar;
 }

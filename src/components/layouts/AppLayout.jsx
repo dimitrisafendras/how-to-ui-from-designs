@@ -9,6 +9,9 @@ export const AppLayout = ({children}) => {
 			<div className='AppLayout2'>
 				{children}
 			</div>
+			<div className='AppLayout3'>
+				{children}
+			</div>
 		</>
 
 	);

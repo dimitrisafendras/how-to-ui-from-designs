@@ -11,3 +11,17 @@
 
     margin-bottom: 20px;
 }
+
+.AppLayout3 {
+    height: 100vh;
+    background-color: #4FC3F7;
+
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+    grid-template-areas:
+            "sidebar header"
+            "sidebar main";
+
+    margin-bottom: 20px;
+}
