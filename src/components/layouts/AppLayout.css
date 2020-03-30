@@ -1,5 +1,13 @@
-.AppLayout {
+.AppLayout1 {
     height: 100vh;
-    width: 100vw;
     background-color: #4FC3F7;
+
+    margin-bottom: 20px;
+}
+
+.AppLayout2 {
+    height: 100vh;
+    background-color: #4FC3F7;
+
+    margin-bottom: 20px;
 }
