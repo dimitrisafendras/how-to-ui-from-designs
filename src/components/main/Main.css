@@ -1,7 +1,14 @@
 .Main {
-    min-height: 10px;
-    min-width: 10px;
     background-color: green;
-
     grid-area: main;
+    padding: 32px;
+}
+
+.MainLayout {
+    height: 100%;
+    width: 100%;
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: repeat(8, 1fr);
+    grid-auto-flow: column;
 }
