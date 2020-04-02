@@ -5,10 +5,55 @@
 }
 
 .MainLayout {
-    height: 100%;
-    width: 100%;
     display: grid;
-    grid-template-rows: 1fr;
     grid-template-columns: repeat(8, 1fr);
-    grid-auto-flow: column;
+    grid-gap: 32px;
+    grid-auto-flow: row;
+    transition: all 1s;
+
+}
+
+.Tmp {
+    height: 200px;
+}
+
+.Tmp2 {
+    height: 400px;
+}
+
+.Tmp3 {
+    height: 500px;
+}
+
+.SmallCard {
+    grid-column: span 2;
+}
+
+.MediumCard {
+    grid-column: span 3;
+}
+
+.BigCard {
+    grid-column: span 6;
+}
+
+
+@media only screen and (max-width: 768px) {
+    .MainLayout {
+        grid-template-columns: repeat(4, 1fr);
+        grid-gap: 16px;
+        transition: all 1s;
+    }
+
+    .SmallCard {
+        grid-column: span 4;
+    }
+
+    .MediumCard {
+        grid-column: span 4;
+    }
+
+    .BigCard {
+        grid-column: span 4;
+    }
 }

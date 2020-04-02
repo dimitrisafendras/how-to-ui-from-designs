@@ -1,33 +1,5 @@
-.AppLayout1 {
-    height: 100vh;
-    background-color: #4FC3F7;
-
-    margin-bottom: 20px;
-}
-
-.AppLayout2 {
-    height: 100vh;
-    background-color: #4FC3F7;
-
-    margin-bottom: 20px;
-}
-
-.AppLayout3 {
-    height: 100vh;
-    background-color: #4FC3F7;
-
-    display: grid;
-    grid-template-columns: auto;
-    grid-template-rows: auto;
-    grid-template-areas:
-            "sidebar header"
-            "sidebar main";
-
-    margin-bottom: 20px;
-}
-
 .AppLayout4 {
-    height: 100vh;
+    min-height: 100vh;
     background-color: #4FC3F7;
 
     display: grid;
@@ -36,6 +8,17 @@
     grid-template-areas:
             "sidebar header"
             "sidebar main";
+    transition: all 1s;
+}
 
-    margin-bottom: 20px;
+@media only screen and (max-width: 768px) {
+    .AppLayout4 {
+        grid-template-columns: auto;
+        grid-template-rows: 48px auto 48px;
+        grid-template-areas:
+                "header"
+                "main"
+                "sidebar";
+        transition: all 1s;
+    }
 }
