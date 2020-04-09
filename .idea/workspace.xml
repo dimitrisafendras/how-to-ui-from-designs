@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27bdda93-947d-41dc-b153-b117850184fb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/basicLayout/BasicLayout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/basicLayout/BasicLayout.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/basicLayout/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/card/Card.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/card/Card.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/card/Card.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/card/Card.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index.js" afterDir="false" />
     </list>
     <list id="608be2c1-95b1-4be6-b59a-22aa989a31ca" name="New changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,9 +18,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
-        <option value="CSS File" />
         <option value="React File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -159,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586437351983</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="....">
+      <created>1586437951209</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1586437951209</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,10 +186,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="...." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="218" y="0" key="CommitChangelistDialog2" timestamp="1586437351566">
+    <state x="218" y="0" key="CommitChangelistDialog2" timestamp="1586437950817">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="218" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1586437351566" />
+    <state x="218" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1586437950817" />
     <state x="119" y="54" key="DiffContextDialog" timestamp="1584380917313">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
