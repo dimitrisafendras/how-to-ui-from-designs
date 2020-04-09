@@ -5,13 +5,14 @@
 }
 
 .MainLayout {
+    height: 100%;
+
     display: grid;
     grid-template-columns: repeat(8, 1fr);
     grid-template-rows: repeat(5, 1fr);
     grid-gap: 32px;
     grid-auto-flow: row;
     transition: all 1s;
-
 }
 
 .Tmp {

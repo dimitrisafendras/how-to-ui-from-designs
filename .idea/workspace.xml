@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27bdda93-947d-41dc-b153-b117850184fb" name="Default Changelist" comment="">
+    <list default="true" id="27bdda93-947d-41dc-b153-b117850184fb" name="Default Changelist" comment="refactor">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/main/Main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/Main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/main/Main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/Main.jsx" afterDir="false" />
     </list>
     <list id="608be2c1-95b1-4be6-b59a-22aa989a31ca" name="New changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -188,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585674391047</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="refactor">
+      <created>1586432695975</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1586432695975</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -200,21 +206,21 @@
     <MESSAGE value="done" />
     <MESSAGE value="basic layout components" />
     <MESSAGE value="refactor + page layout" />
-    <MESSAGE value="refactor" />
     <MESSAGE value="added grid layout" />
     <MESSAGE value="give dimensions to grid items" />
     <MESSAGE value="added inner grid" />
-    <option name="LAST_COMMIT_MESSAGE" value="added inner grid" />
+    <MESSAGE value="refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor" />
   </component>
   <component name="WindowStateProjectService">
     <state x="371" y="107" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585672979015">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="371" y="107" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.720@0.0.1280.720" timestamp="1585672979015" />
-    <state x="218" y="0" key="CommitChangelistDialog2" timestamp="1585674390403">
+    <state x="218" y="0" key="CommitChangelistDialog2" timestamp="1586432817307">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="218" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1585674390403" />
+    <state x="218" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1586432817307" />
     <state x="119" y="54" key="DiffContextDialog" timestamp="1585674487839">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
@@ -255,10 +261,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="448" y="230" key="VCS.EditChangelistDialog/0.0.1280.720@0.0.1280.720" timestamp="1584394405798" />
-    <state x="234" y="82" key="Vcs.Push.Dialog.v2" timestamp="1585674393314">
+    <state x="234" y="82" key="Vcs.Push.Dialog.v2" timestamp="1586432697541">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="234" y="82" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1585674393314" />
+    <state x="234" y="82" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1586432697541" />
     <state x="577" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585815593406">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
