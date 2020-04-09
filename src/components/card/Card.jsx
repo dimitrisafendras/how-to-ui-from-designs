@@ -2,9 +2,9 @@ import React from 'react';
 import Gold from './gold.svg'
 import './Card.css';
 
-export const Card = () => {
+export const Card = ({className}) => {
 	return (
-		<div className='Card'>
+		<div className={`Card ${className}`}>
 			<div className='Indicator'/>
 			<img src={Gold} className='Icon'></img>
 			<div className='TextContainer'>

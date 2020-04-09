@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27bdda93-947d-41dc-b153-b117850184fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/basicLayout/BasicLayout.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/basicLayout/BasicLayout.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/basicLayout/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/basicLayout/BasicLayout.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/basicLayout/BasicLayout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/card/Card.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/card/Card.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/card/Card.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/card/Card.jsx" afterDir="false" />
     </list>
     <list id="608be2c1-95b1-4be6-b59a-22aa989a31ca" name="New changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -234,9 +234,9 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="577" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.720@0.0.1280.720" timestamp="1584373974821" />
-    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1584382953764">
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1586439034286">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1584382953764" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1586439034286" />
   </component>
 </project>
