@@ -5,13 +5,19 @@ import './Card.css';
 export const Card = () => {
 	return (
 		<div className='Card'>
-			<div className='Icon'></div>
+			<img src={Gold} className='Icon'></img>
 			<div className='TextContainer'>
 				<div className='UpperText'>
-					<div className='BoldText'></div>
-					<div className='Number'></div>
+					<div className='BoldText'>
+						Textlgjnsl jvnsldjn
+					</div>
+					<div className='Number'>
+						12
+					</div>
 				</div>
-				<div className='LowerText' ></div>
+				<div className='LowerText' >
+					Blakjdfgk lbsgk lbfsklb
+				</div>
 			</div>
 		</div>
 	);

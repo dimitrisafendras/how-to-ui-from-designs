@@ -1,9 +1,7 @@
 .Card {
     background-color: red;
-    min-height: 52px;
     width: 100%;
     padding: 8px;
-
     display: flex;
 }
 
@@ -14,38 +12,37 @@
     max-width: 24px;
 
     margin-right: 8px;
-    background-color: green;
 }
 
 .TextContainer {
-    min-height: 36px;
-    width: 100%;
-    background-color: deepskyblue;
+    text-align: left;
 }
 
 .UpperText {
-    width: 100%;
-    background-color: purple;
-
     display: flex;
 }
 
 .LowerText {
-    min-height: 20px;
-    width: 100%;
-    background-color: yellow;
+    font-size: 16px;
+    line-height: 20px;
+    color: black;
+    overflow-wrap: break-word;
 }
 
 .BoldText {
-    min-height: 16px;
-    width: 100%;
     margin-right: 4px;
-    background-color: blue;
 
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: bold;
+    color: black;
+    overflow-wrap: break-word;
 }
 
 .Number {
-    min-height: 16px;
-    width: 100%;
-    background-color: orange;
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: bold;
+    color: blue;
+    overflow-wrap: break-word;
 }
