@@ -2,6 +2,7 @@
     background-color: red;
     min-height: 52px;
     width: 100%;
+    padding: 8px;
 
     display: flex;
 }
@@ -11,6 +12,8 @@
     max-height: 24px;
     min-width: 24px;
     max-width: 24px;
+
+    margin-right: 8px;
     background-color: green;
 }
 
@@ -36,7 +39,9 @@
 .BoldText {
     min-height: 16px;
     width: 100%;
+    margin-right: 4px;
     background-color: blue;
+
 }
 
 .Number {
