@@ -1,2 +1,46 @@
 .Card {
+    background-color: red;
+    min-height: 52px;
+    width: 100%;
+
+    display: flex;
+}
+
+.Icon {
+    min-height: 24px;
+    max-height: 24px;
+    min-width: 24px;
+    max-width: 24px;
+    background-color: green;
+}
+
+.TextContainer {
+    min-height: 36px;
+    width: 100%;
+    background-color: deepskyblue;
+}
+
+.UpperText {
+    width: 100%;
+    background-color: purple;
+
+    display: flex;
+}
+
+.LowerText {
+    min-height: 20px;
+    width: 100%;
+    background-color: yellow;
+}
+
+.BoldText {
+    min-height: 16px;
+    width: 100%;
+    background-color: blue;
+}
+
+.Number {
+    min-height: 16px;
+    width: 100%;
+    background-color: orange;
 }
