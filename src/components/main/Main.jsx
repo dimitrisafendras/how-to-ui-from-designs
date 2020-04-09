@@ -9,8 +9,8 @@ export const Main = () => {
 				<Card className='SmallCard Tmp'/>
 				<Card className='MediumCard Tmp2'/>
 				<Card className='MediumCard Tmp2'/>
-				<Card className='SmallCard Tmp3'/>
-				<Card className='BigCard Tmp2'/>
+				<Card className='SmallCard Tmp2'/>
+				<Card className='BigCard Tmp'/>
 			</div>
 		</div>
 	);

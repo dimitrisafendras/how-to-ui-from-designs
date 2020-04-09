@@ -3,13 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="27bdda93-947d-41dc-b153-b117850184fb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/card/Card.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/card/Card.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/Header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/layouts/AppLayout.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layouts/AppLayout.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/layouts/AppLayout.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layouts/AppLayout.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/main/Main.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/Main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/main/Main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/main/Main.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/sidebar/Sidebar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sidebar/Sidebar.css" afterDir="false" />
     </list>
     <list id="608be2c1-95b1-4be6-b59a-22aa989a31ca" name="New changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="card-implementation" />
+        <entry key="$PROJECT_DIR$" value="snap-card-into-grid" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -232,22 +227,22 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="430" y="237" key="Github.ShareDialog/0.0.1280.720@0.0.1280.720" timestamp="1584391333533" />
-    <state width="1237" height="37" key="GridCell.Tab.0.bottom" timestamp="1585672537421">
+    <state width="1237" height="36" key="GridCell.Tab.0.bottom" timestamp="1586432425732">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="37" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1585672537421" />
-    <state width="1237" height="37" key="GridCell.Tab.0.center" timestamp="1585672537421">
+    <state width="1237" height="36" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1586432425732" />
+    <state width="1237" height="36" key="GridCell.Tab.0.center" timestamp="1586432425732">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="37" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1585672537421" />
-    <state width="1237" height="37" key="GridCell.Tab.0.left" timestamp="1585672537419">
+    <state width="1237" height="36" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1586432425732" />
+    <state width="1237" height="36" key="GridCell.Tab.0.left" timestamp="1586432425732">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="37" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1585672537419" />
-    <state width="1237" height="37" key="GridCell.Tab.0.right" timestamp="1585672537421">
+    <state width="1237" height="36" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1586432425732" />
+    <state width="1237" height="36" key="GridCell.Tab.0.right" timestamp="1586432425732">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="37" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1585672537421" />
+    <state width="1237" height="36" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1586432425732" />
     <state x="356" y="71" key="RollbackChangesDialog" timestamp="1585674488367">
       <screen x="0" y="0" width="1280" height="720" />
     </state>

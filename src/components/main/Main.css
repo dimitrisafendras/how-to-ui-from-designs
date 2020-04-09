@@ -7,6 +7,7 @@
 .MainLayout {
     display: grid;
     grid-template-columns: repeat(8, 1fr);
+    grid-template-rows: repeat(5, 1fr);
     grid-gap: 32px;
     grid-auto-flow: row;
     transition: all 1s;
@@ -14,15 +15,11 @@
 }
 
 .Tmp {
-    height: 200px;
+    grid-row: span 2
 }
 
 .Tmp2 {
-    height: 400px;
-}
-
-.Tmp3 {
-    height: 500px;
+    grid-row: span 3
 }
 
 .SmallCard {
