@@ -1,8 +1,11 @@
 .Card {
-    background-color: red;
+    background-color: white;
+    box-shadow: 0 0 5px 4px rgba(0,0,0,0.75);
     width: 100%;
     padding: 8px;
     display: flex;
+
+    position: relative;
 }
 
 .Icon {
@@ -45,4 +48,15 @@
     font-weight: bold;
     color: blue;
     overflow-wrap: break-word;
+}
+
+.Indicator {
+    height: 8px;
+    width: 8px;
+    border-radius: 50%;
+    position: absolute;
+    background-color: green;
+
+    top: 4px;
+    left: -4px;
 }

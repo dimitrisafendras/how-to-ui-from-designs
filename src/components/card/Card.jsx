@@ -5,6 +5,7 @@ import './Card.css';
 export const Card = () => {
 	return (
 		<div className='Card'>
+			<div className='Indicator'/>
 			<img src={Gold} className='Icon'></img>
 			<div className='TextContainer'>
 				<div className='UpperText'>
