@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27bdda93-947d-41dc-b153-b117850184fb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/components/card/Card.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/card/Card.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/card/Card.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/card/Card.jsx" afterDir="false" />
+    </list>
+    <list id="608be2c1-95b1-4be6-b59a-22aa989a31ca" name="New changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/card/Card.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/card/Card.css" afterDir="false" />
     </list>
-    <list id="608be2c1-95b1-4be6-b59a-22aa989a31ca" name="New changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +24,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="card-implementation" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Z1p1hC97IRjF2YrNpXzeIAx3T0" />
@@ -87,6 +95,8 @@
       <workItem from="1584371876894" duration="13890000" />
       <workItem from="1584542746912" duration="671000" />
       <workItem from="1585318902815" duration="326000" />
+      <workItem from="1586429412861" duration="29000" />
+      <workItem from="1586429560998" duration="121000" />
     </task>
     <task id="LOCAL-00001" summary="progress on card added indicator">
       <created>1584379736755</created>
@@ -176,10 +186,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="1237" height="38" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1584373104108" />
-    <state x="356" y="71" key="RollbackChangesDialog" timestamp="1585313938984">
+    <state x="356" y="71" key="RollbackChangesDialog" timestamp="1586429614406">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="356" y="71" key="RollbackChangesDialog/0.0.1280.720@0.0.1280.720" timestamp="1585313938984" />
+    <state x="356" y="71" key="RollbackChangesDialog/0.0.1280.720@0.0.1280.720" timestamp="1586429614406" />
     <state x="448" y="230" key="VCS.EditChangelistDialog" timestamp="1584394405798">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
