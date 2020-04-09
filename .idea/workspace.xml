@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27bdda93-947d-41dc-b153-b117850184fb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/components/card/Card.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/card/Card.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/card/Card.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/card/Card.jsx" afterDir="false" />
-    </list>
-    <list id="608be2c1-95b1-4be6-b59a-22aa989a31ca" name="New changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/card/Card.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/card/Card.css" afterDir="false" />
     </list>
+    <list id="608be2c1-95b1-4be6-b59a-22aa989a31ca" name="New changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,7 +149,8 @@
     <MESSAGE value="progress" />
     <MESSAGE value="done" />
     <MESSAGE value="refactor" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor" />
+    <MESSAGE value="cleaned code" />
+    <option name="LAST_COMMIT_MESSAGE" value="cleaned code" />
   </component>
   <component name="WindowStateProjectService">
     <state x="218" y="0" key="CommitChangelistDialog2" timestamp="1585319185482">
@@ -170,22 +169,22 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="430" y="237" key="Github.ShareDialog/0.0.1280.720@0.0.1280.720" timestamp="1584391333533" />
-    <state width="1237" height="38" key="GridCell.Tab.0.bottom" timestamp="1584373104109">
+    <state width="1237" height="36" key="GridCell.Tab.0.bottom" timestamp="1586430021198">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="38" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1584373104109" />
-    <state width="1237" height="38" key="GridCell.Tab.0.center" timestamp="1584373104108">
+    <state width="1237" height="36" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1586430021198" />
+    <state width="1237" height="36" key="GridCell.Tab.0.center" timestamp="1586430021197">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="38" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1584373104108" />
-    <state width="1237" height="38" key="GridCell.Tab.0.left" timestamp="1584373104108">
+    <state width="1237" height="36" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1586430021197" />
+    <state width="1237" height="36" key="GridCell.Tab.0.left" timestamp="1586430021196">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="38" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1584373104108" />
-    <state width="1237" height="38" key="GridCell.Tab.0.right" timestamp="1584373104108">
+    <state width="1237" height="36" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1586430021196" />
+    <state width="1237" height="36" key="GridCell.Tab.0.right" timestamp="1586430021197">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="38" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1584373104108" />
+    <state width="1237" height="36" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1586430021197" />
     <state x="356" y="71" key="RollbackChangesDialog" timestamp="1586429614406">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
