@@ -1,4 +1,4 @@
-.AppLayout4 {
+.AppLayout {
     min-height: 100vh;
     background-color: #4FC3F7;
 
@@ -12,7 +12,7 @@
 }
 
 @media only screen and (max-width: 768px) {
-    .AppLayout4 {
+    .AppLayout {
         grid-template-columns: auto;
         grid-template-rows: 48px auto 48px;
         grid-template-areas:
