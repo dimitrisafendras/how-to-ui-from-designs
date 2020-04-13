@@ -16,6 +16,7 @@
 .Card9 {
     min-height: 36px;
     padding: 8px;
+    margin-bottom: 20px;
     background-color: var(--white);
     box-shadow: var(--shadow);
     border-radius: var(--roundCorners);
@@ -57,9 +58,9 @@
 }
 
 .InnerTextCommon {
-    min-height: 16px;
     margin-right: 4px;
     font-size: var(--h5Size);
+    line-height: var(--h5Height);
     font-weight: bold;
 }
 
@@ -73,7 +74,7 @@
 }
 
 .Amount9 {
-    min-height: 20px;
     font-size: var(--h4Size);
+    line-height: var(--h4Height);
     color: var(--black);
 }
