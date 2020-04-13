@@ -1,9 +1,9 @@
 import React from 'react';
 import './Header.css';
 
-export const Header = ({}) => {
+export const Header = ({className = ''}) => {
 	return (
-		<div className='Header'>
+		<div className={`Header ${className}`}>
 		</div>
 	);
 };

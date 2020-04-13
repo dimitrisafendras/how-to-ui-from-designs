@@ -1,6 +1,44 @@
+.AppLayout {
+    min-height: 100px;
+    min-width: 100px;
+    background-color: #4FC3F7;
+    margin-bottom: 20px;
+}
+
+.AppLayout2 {
+    min-height: 100vh;
+    background-color: #4FC3F7;
+    margin-bottom: 20px;
+}
+
+.AppLayout3 {
+    min-height: 100vh;
+    background-color: #4FC3F7;
+    margin-bottom: 20px;
+}
+
 .AppLayout4 {
     min-height: 100vh;
     background-color: #4FC3F7;
+    margin-bottom: 20px;
+
+    display: grid;
+}
+
+.AppLayout5 {
+    min-height: 100vh;
+    background-color: #4FC3F7;
+    margin-bottom: 20px;
+
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-template-rows: auto auto;
+}
+
+.AppLayout6 {
+    min-height: 100vh;
+    background-color: #4FC3F7;
+    margin-bottom: 20px;
 
     display: grid;
     grid-template-columns: 48px auto;
@@ -11,8 +49,12 @@
     transition: all 1s;
 }
 
+.HeaderCell {grid-area: header}
+.MainCell {grid-area: main}
+.SidebarCell {grid-area: sidebar}
+
 @media only screen and (max-width: 768px) {
-    .AppLayout4 {
+    .AppLayout6 {
         grid-template-columns: auto;
         grid-template-rows: 48px auto 48px;
         grid-template-areas:
