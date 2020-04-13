@@ -16,7 +16,6 @@
 .Card9 {
     min-height: 36px;
     padding: 8px;
-    margin-bottom: 20px;
     background-color: var(--white);
     box-shadow: var(--shadow);
     border-radius: var(--roundCorners);
