@@ -20,7 +20,10 @@ export const Card = () => {
 			<div className='Card4'>
 				<div className='Icon4'/>
 				<div className='TextContainer4'>
-					<div className='Text4'/>
+					<div className='InnerTextContainer4'>
+						<div className='InnerText4'/>
+						<div className='InnerNumber4'/>
+					</div>
 					<div className='Amount4'/>
 				</div>
 			</div>
