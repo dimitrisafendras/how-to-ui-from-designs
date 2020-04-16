@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27bdda93-947d-41dc-b153-b117850184fb" name="Default Changelist" comment="">
+    <list default="true" id="2822c462-f0a1-4b8d-be09-1cbe51c0b2bd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/basicLayout/BasicLayout.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/basicLayout/BasicLayout.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/card/Card.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/card/Card.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/card/Card.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/card/Card.jsx" afterDir="false" />
     </list>
-    <list id="608be2c1-95b1-4be6-b59a-22aa989a31ca" name="New changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -202,22 +200,22 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="430" y="237" key="Github.ShareDialog/0.0.1280.720@0.0.1280.720" timestamp="1584391333533" />
-    <state width="1237" height="36" key="GridCell.Tab.0.bottom" timestamp="1586430021198">
+    <state width="1237" height="176" key="GridCell.Tab.0.bottom" timestamp="1587028902939">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="36" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1586430021198" />
-    <state width="1237" height="36" key="GridCell.Tab.0.center" timestamp="1586430021197">
+    <state width="1237" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1587028902939" />
+    <state width="1237" height="176" key="GridCell.Tab.0.center" timestamp="1587028902938">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="36" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1586430021197" />
-    <state width="1237" height="36" key="GridCell.Tab.0.left" timestamp="1586430021196">
+    <state width="1237" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1587028902938" />
+    <state width="1237" height="176" key="GridCell.Tab.0.left" timestamp="1587028902938">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="36" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1586430021196" />
-    <state width="1237" height="36" key="GridCell.Tab.0.right" timestamp="1586430021197">
+    <state width="1237" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1587028902938" />
+    <state width="1237" height="176" key="GridCell.Tab.0.right" timestamp="1587028902938">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="36" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1586430021197" />
+    <state width="1237" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1587028902938" />
     <state x="356" y="71" key="RollbackChangesDialog" timestamp="1586429614406">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
