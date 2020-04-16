@@ -1,0 +1,18 @@
+.MainLayout {
+    height: 100%;
+
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+    grid-gap: 32px;
+    grid-auto-flow: row;
+    transition: all 1s;
+}
+
+@media only screen and (max-width: 768px) {
+    .MainLayout {
+        grid-template-columns: 1fr;
+        grid-gap: 16px;
+        transition: all 1s;
+    }
+}

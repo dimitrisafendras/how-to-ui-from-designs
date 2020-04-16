@@ -1,0 +1,5 @@
+.Header {
+    min-height: 10px;
+    background-color: red;
+    grid-area: header;
+}

@@ -1,0 +1,24 @@
+.AppLayout {
+    min-height: 100vh;
+    background-color: #4FC3F7;
+
+    display: grid;
+    grid-template-columns: 48px auto;
+    grid-template-rows: 48px auto;
+    grid-template-areas:
+            "sidebar header"
+            "sidebar main";
+    transition: all 1s;
+}
+
+@media only screen and (max-width: 768px) {
+    .AppLayout {
+        grid-template-columns: auto;
+        grid-template-rows: 48px auto 48px;
+        grid-template-areas:
+                "header"
+                "main"
+                "sidebar";
+        transition: all 1s;
+    }
+}
