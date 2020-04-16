@@ -5,11 +5,6 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <AppLayout>
-        <Header/>
-        <Sidebar/>
-        <Main/>
-      </AppLayout>
     </div>
   );
 }

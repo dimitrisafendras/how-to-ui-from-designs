@@ -5,45 +5,45 @@
 }
 
 .FirstCard {
-    grid-column: span 2;
-    grid-row: span 2
+    /*grid-column: span 2;*/
+    /*grid-row: span 2*/
 }
 .SecondCard {
-    grid-column: span 3;
-    grid-row: span 3
+    /*grid-column: span 3;*/
+    /*grid-row: span 3*/
 }
 .ThirdCard {
-    grid-column: span 3;
-    grid-row: span 3
+    /*grid-column: span 3;*/
+    /*grid-row: span 3*/
 }
 .FourthCard {
-    grid-column: span 2;
-    grid-row: span 3
+    /*grid-column: span 2;*/
+    /*grid-row: span 3*/
 }
 .FifthCard {
-    grid-column: span 6;
-    grid-row: span 2
+    /*grid-column: span 6;*/
+    /*grid-row: span 2*/
 }
 
 @media only screen and (max-width: 768px) {
-    .FirstCard {
-        grid-column: span 1;
-        grid-row: span 1;
-    }
-    .SecondCard {
-        grid-column: span 1;
-        grid-row: span 1;
-    }
-    .ThirdCard {
-        grid-column: span 1;
-        grid-row: span 1;
-    }
-    .FourthCard {
-        grid-column: span 1;
-        grid-row: span 1;
-    }
-    .FifthCard {
-        grid-column: span 1;
-        grid-row: span 1;
-    }
+    /*.FirstCard {*/
+    /*    grid-column: span 1;*/
+    /*    grid-row: span 1;*/
+    /*}*/
+    /*.SecondCard {*/
+    /*    grid-column: span 1;*/
+    /*    grid-row: span 1;*/
+    /*}*/
+    /*.ThirdCard {*/
+    /*    grid-column: span 1;*/
+    /*    grid-row: span 1;*/
+    /*}*/
+    /*.FourthCard {*/
+    /*    grid-column: span 1;*/
+    /*    grid-row: span 1;*/
+    /*}*/
+    /*.FifthCard {*/
+    /*    grid-column: span 1;*/
+    /*    grid-row: span 1;*/
+    /*}*/
 }
